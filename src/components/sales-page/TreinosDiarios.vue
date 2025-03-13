@@ -19,66 +19,92 @@
       <div class="grid md:grid-cols-3 gap-8">
         <!-- Card 1 -->
         <div class="card group animate-fade-in" style="animation-delay: 0.2s">
-          <div class="relative overflow-hidden">
-            <img 
-              src="@/assets/images/training/identificacao-barriga.jpg" 
-              alt="Identificação do tipo de barriga" 
-              class="w-full h-64 object-cover transform group-hover:scale-110 transition-transform duration-500" 
+          <div class="relative overflow-hidden h-[400px]">
+            <img
+              src="https://plataformavevefit.com/wp-content/uploads/2023/06/vevefit-img-0001.webp"
+              alt="Identificação do tipo de barriga"
+              class="w-full h-full object-cover transform group-hover:scale-110 transition-transform duration-500"
             />
-            <div class="absolute inset-0 bg-gradient-to-t from-primary/80 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
+            <div
+              class="absolute inset-0 bg-gradient-to-t from-primary/80 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"
+            ></div>
           </div>
           <div class="p-6">
-            <div class="w-12 h-12 bg-accent/10 rounded-full flex items-center justify-center mb-4">
+            <div
+              class="w-12 h-12 bg-accent/10 rounded-full flex items-center justify-center mb-4"
+            >
               <span class="text-2xl font-bold text-accent">1</span>
             </div>
             <p class="text-lg text-gray-700">
-              Aprenda a identificar o seu tipo de barriga e os programas mais indicados para você na Plataforma VeveFit
+              São exercícios específicos com aulas de 5 a 20 minutos que
+              combinam duas técnicas, hipopressivo e RAP, trabalhando toda a
+              região do abdômen e assoalho pélvico de maneira segura, fazendo
+              com que o reto abdominal e a linha Alba voltem ao normal e, com
+              isso, a diástase seja reabilitada.
             </p>
           </div>
         </div>
 
         <!-- Card 2 -->
         <div class="card group animate-fade-in" style="animation-delay: 0.4s">
-          <div class="relative overflow-hidden">
-            <img 
-              src="@/assets/images/training/avaliacao-diafragma.jpg" 
-              alt="Avaliação do diafragma" 
-              class="w-full h-64 object-cover transform group-hover:scale-110 transition-transform duration-500" 
+          <div class="relative overflow-hidden h-[400px]">
+            <img
+              src="https://plataformavevefit.com/wp-content/uploads/2023/06/vevefit-img-0002.webp"
+              alt="Avaliação do diafragma"
+              class="w-full h-full object-cover transform group-hover:scale-110 transition-transform duration-500"
             />
-            <div class="absolute inset-0 bg-gradient-to-t from-primary/80 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
+            <div
+              class="absolute inset-0 bg-gradient-to-t from-primary/80 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"
+            ></div>
           </div>
           <div class="p-6">
-            <div class="w-12 h-12 bg-accent/10 rounded-full flex items-center justify-center mb-4">
+            <div
+              class="w-12 h-12 bg-accent/10 rounded-full flex items-center justify-center mb-4"
+            >
               <span class="text-2xl font-bold text-accent">2</span>
             </div>
             <p class="text-lg text-gray-700">
-              Aprenda a avaliar, liberar o seu diafragma e respirar da forma correta
+              No Barriga Negativa você vai aprender a técnica hipopressiva
+              completa, criado para tonificar a musculatura do assoalho pélvico
+              ativando o musculo transverso e o diafragma ao ser colocado em
+              prática, foi descoberto seu enorme resultado estético na região da
+              barriga.
             </p>
           </div>
         </div>
 
         <!-- Card 3 -->
         <div class="card group animate-fade-in" style="animation-delay: 0.6s">
-          <div class="relative overflow-hidden">
-            <img 
-              src="@/assets/images/training/ativacao-transverso.jpg" 
-              alt="Ativação do transverso" 
-              class="w-full h-64 object-cover transform group-hover:scale-110 transition-transform duration-500" 
+          <div class="relative overflow-hidden h-[400px]">
+            <img
+              src="https://plataformavevefit.com/wp-content/uploads/2023/06/vevefit-img-0003.webp"
+              alt="Ativação do transverso"
+              class="w-full h-full object-cover transform group-hover:scale-110 transition-transform duration-500"
             />
-            <div class="absolute inset-0 bg-gradient-to-t from-primary/80 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
+            <div
+              class="absolute inset-0 bg-gradient-to-t from-primary/80 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"
+            ></div>
           </div>
           <div class="p-6">
-            <div class="w-12 h-12 bg-accent/10 rounded-full flex items-center justify-center mb-4">
+            <div
+              class="w-12 h-12 bg-accent/10 rounded-full flex items-center justify-center mb-4"
+            >
               <span class="text-2xl font-bold text-accent">3</span>
             </div>
             <p class="text-lg text-gray-700">
-              Aprenda a ativar o transverso abdominal para perder 4 a 12 cm de barriga em apenas 3 meses.
+              Nas aulas de RAP (respiração com ativação profunda) você vai
+              descobrir como ter controle e equilíbrio da musculatura mais
+              profunda do abdômen – o transverso abdominal, nossa cinta natural-
+              no seu dia a dia.
             </p>
           </div>
         </div>
       </div>
 
-      <div class="text-center mt-12 animate-fade-in" style="animation-delay: 0.8s">
+      <div
+        class="text-center mt-12 animate-fade-in"
+        style="animation-delay: 0.8s"
+      >
         <a href="#planos" class="btn btn-success text-lg">
           QUERO MUDAR MEU CORPO COM A VEVE
         </a>
@@ -93,6 +119,6 @@
 
 <script>
 export default {
-  name: 'TreinosDiarios'
-}
-</script> 
+  name: "TreinosDiarios",
+};
+</script>

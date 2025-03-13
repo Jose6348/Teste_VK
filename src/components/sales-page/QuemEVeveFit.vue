@@ -4,7 +4,7 @@
       <div class="grid lg:grid-cols-2 gap-12 items-center">
         <div>
           <img 
-            src="@/assets/images/profile/veve-profile.jpg" 
+            src="https://scontent.fvcp1-1.fna.fbcdn.net/v/t39.30808-6/218958097_379650550189954_1225808005636674009_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=I6Imvq9uhVgQ7kNvgEGln7V&_nc_oc=AdgMc6X1Yngy_nERcAwQ_40dryxksOMtlnjEHeRJhZn6Ga1AY9gwxRDVkyoVF9BpF78&_nc_zt=23&_nc_ht=scontent.fvcp1-1.fna&_nc_gid=ABeGhVPpPpq3iNvRSbB8DVh&oh=00_AYFQC6p-owdwmBeV22U4bfJhAlX8laKz1S9AcQiIPpUZLg&oe=67D8FECC" 
             alt="Verônica Motta - VeveFit" 
             class="rounded-2xl shadow-xl w-full"
           />

@@ -68,7 +68,7 @@
             <div class="absolute -inset-4 bg-accent/10 rounded-2xl transform rotate-3"></div>
             <div class="relative rounded-2xl overflow-hidden shadow-xl">
               <img 
-                src="https://images.unsplash.com/photo-1518611012118-696072aa579a?w=800&h=600&fit=crop" 
+                src="https://plataformavevefit.com/wp-content/uploads/2023/12/barriga.png" 
                 alt="VeveFit - Transforme sua vida" 
                 class="w-full h-full object-cover"
               />

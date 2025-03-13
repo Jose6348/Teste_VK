@@ -10,6 +10,7 @@
     <Beneficios />
     <Galeria />
     <Depoimentos />
+    <GarantiaSection />
     <Planos />
     <Contato />
     <Footer />
@@ -27,6 +28,7 @@ import TreinosDiarios from './sales-page/TreinosDiarios.vue'
 import Beneficios from './sales-page/Beneficios.vue'
 import Galeria from './sales-page/Galeria.vue'
 import Depoimentos from './sales-page/Depoimentos.vue'
+import GarantiaSection from './sales-page/Garantia.vue'
 import Planos from './sales-page/Planos.vue'
 import Contato from './sales-page/Contato.vue'
 import Footer from './sales-page/Footer.vue'
@@ -44,6 +46,7 @@ export default {
     Beneficios,
     Galeria,
     Depoimentos,
+    GarantiaSection,
     Planos,
     Contato,
     Footer

@@ -29,11 +29,11 @@
         </div>
 
         <div class="order-1 lg:order-2">
-          <div class="w-full md:w-1/2">
+          <div class="w-full md:w-3/3 max-w-4xl mx-auto h-[600px]">
             <img 
-              src="@/assets/images/transformation/antes-1.jpg" 
+              src="https://plataformavevefit.com/wp-content/uploads/2023/12/Animacao-3D-Diastase-sem-mdg.gif" 
               alt="Transformação Barriga Negativa" 
-              class="w-full h-full object-cover rounded-lg shadow-lg"
+              class="w-full h-full object-contain rounded-lg shadow-lg"
             />
           </div>
         </div>
