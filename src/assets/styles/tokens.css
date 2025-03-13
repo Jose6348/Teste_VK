@@ -1,0 +1,58 @@
+:root {
+  /* Colors */
+  --color-primary: #FF1F7D;
+  --color-primary-dark: #E01B6F;
+  --color-secondary: #4A0B2D;
+  --color-gradient-start: #4A0B2D;
+  --color-gradient-middle: #8B1155;
+  --color-gradient-end: #4A0B2D;
+  
+  /* Typography */
+  --font-primary: 'Inter', system-ui, sans-serif;
+  --font-size-base: 1rem;
+  --font-size-lg: 1.125rem;
+  --font-size-xl: 1.25rem;
+  --font-size-2xl: 1.5rem;
+  --font-size-3xl: 1.875rem;
+  --font-size-4xl: 2.25rem;
+  --font-size-5xl: 3rem;
+  
+  /* Spacing */
+  --spacing-1: 0.25rem;
+  --spacing-2: 0.5rem;
+  --spacing-3: 0.75rem;
+  --spacing-4: 1rem;
+  --spacing-6: 1.5rem;
+  --spacing-8: 2rem;
+  --spacing-12: 3rem;
+  --spacing-16: 4rem;
+  
+  /* Transitions */
+  --transition-base: 300ms ease-in-out;
+  --transition-slow: 500ms ease-in-out;
+  
+  /* Shadows */
+  --shadow-sm: 0 1px 2px 0 rgb(0 0 0 / 0.05);
+  --shadow-md: 0 4px 6px -1px rgb(0 0 0 / 0.1);
+  --shadow-lg: 0 10px 15px -3px rgb(0 0 0 / 0.1);
+  
+  /* Border Radius */
+  --radius-sm: 0.375rem;
+  --radius-md: 0.5rem;
+  --radius-lg: 0.75rem;
+  --radius-xl: 1rem;
+  --radius-2xl: 1.5rem;
+  --radius-full: 9999px;
+  
+  /* Z-index */
+  --z-0: 0;
+  --z-10: 10;
+  --z-20: 20;
+  --z-30: 30;
+  --z-40: 40;
+  --z-50: 50;
+  
+  /* Container */
+  --container-padding: 1rem;
+  --container-max-width: 80rem;
+} 
